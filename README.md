@@ -38,3 +38,13 @@ of cutting-edge AI technology, and to understand the capability, the challenges,
 of the rise of deep learning. Through five interconnected courses, learners develop a profound 
 knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) 
 to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.).
+
+## 6. IBM Data Science (Intro)
+- In this Specialization learners developed foundational Data Science skills to prepare them for a 
+career or further learning that involves more advanced topics in Data Science. The specialization 
+entailed understanding what is Data Science is and the various kinds of activities that a Data 
+Scientist’s perform. It familiarized learners with various open source tools, like Jupyter notebooks, 
+used by Data Scientists. It taught them about methodology involved in tackling data science problems. 
+The specialization also provided knowledge of relational database concepts and the use of SQL to query 
+databases. Learners completed hands-on labs and projects to apply their newly acquired skills and 
+knowledge.
